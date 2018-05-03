@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RideShare/SpringProject.iml" filepath="$PROJECT_DIR$/../RideShare/SpringProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaServer/eureka-service.iml" filepath="$PROJECT_DIR$/../EurekaServer/eureka-service.iml" />
+    </modules>
+  </component>
+</project>
